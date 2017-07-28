@@ -1,0 +1,1729 @@
+Extracting file ../reu17/sharedData/preclump_dogwood/Pom.Dog.bi.clines.75.AHclineAll.zip to ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files..
+File ../reu17/sharedData/preclump_dogwood/Pom.Dog.bi.clines.75.AHclineAll.zip extracted to ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files
+
+renaming files than contains whitespaces..
+Files in archive file:
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_3.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_3.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_3.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_3.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_3.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_1.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_2.dat
+../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_3.dat
+
+Building PopId To PopName file from indtopop file
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_3.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_3.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_3.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_3.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_3.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_1.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_2.dat
+Number of individuals in file: 826
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_3.dat
+Sorting input files by K
+Number of individuals in file: 826
+Number of populations in file: 1
+Number of individuals in file: 826
+Number of populations in file: 1
+Number of individuals in file: 826
+Number of populations in file: 1
+Number of individuals in file: 826
+Number of populations in file: 2
+Number of individuals in file: 826
+Number of populations in file: 2
+Number of individuals in file: 826
+Number of populations in file: 2
+Number of individuals in file: 826
+Number of populations in file: 3
+Number of individuals in file: 826
+Number of populations in file: 3
+Number of individuals in file: 826
+Number of populations in file: 3
+Number of individuals in file: 826
+Number of populations in file: 4
+Number of individuals in file: 826
+Number of populations in file: 4
+Number of individuals in file: 826
+Number of populations in file: 4
+Number of individuals in file: 826
+Number of populations in file: 5
+Number of individuals in file: 826
+Number of populations in file: 5
+Number of individuals in file: 826
+Number of populations in file: 5
+Number of individuals in file: 826
+Number of populations in file: 6
+Number of individuals in file: 826
+Number of populations in file: 6
+Number of individuals in file: 826
+Number of populations in file: 6
+max k in files is k=6
+Checking and sorting user provided clusters and permutations file
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 1
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 1
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 1
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+Not using any threshold.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] pid 697
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...  -0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 1 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 1
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 1
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 1
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K1_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 1
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MajorCluster
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 2
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 2
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 2
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 2 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 2
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.998827250809422    1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.998827250809422
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 
+2 1 
+2 1 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Pairwise matrix found..
+Extracting Pairwise matrix..
+Pairwise matrix:
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+Not using any threshold.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] pid 711
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...  -0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 0.9988 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 2
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 2
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 2
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K2_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 2
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 2 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 2
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.998827250809422    1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.998827250809422
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 
+2 1 
+2 1 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 3
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 3
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 3
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 3 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 3
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.709137320067948    1
+0.761842485655045    3
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.761842485655045
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 
+1 2 3 
+3 1 2 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Pairwise matrix found..
+Extracting Pairwise matrix..
+Pairwise matrix:
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+The chosen threshold is 0.64.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -tf 'gq(0.64), add(-0.64)' -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] transform: went from 6 to 6 entries
+[mcl] pid 733
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...   0.11  0.00 0.90/0.71/0.99 0.90 0.90 0.90 100
+  2  ...   0.00  0.00 0.98/0.94/1.00 0.90 0.90 0.90 100
+  3  ...  -0.00  0.00 1.00/1.00/1.00 0.90 0.60 0.60 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 0.761866666666667 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 3
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 3
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 3
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K3_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 3
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 3 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 3
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.709137320067948    1
+0.761842485655045    3
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.761842485655045
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 
+1 2 3 
+3 1 2 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 4
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 4
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 4
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 4 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 4
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.99443591567635     1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.99443591567635
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 
+1 3 2 4 
+4 3 2 1 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Pairwise matrix found..
+Extracting Pairwise matrix..
+Pairwise matrix:
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+Not using any threshold.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] pid 755
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  2  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  3  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  4  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  5  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  6  ...   0.01  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  7  ...   0.01  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  8  ...   0.03  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  9  ...   0.05  0.00 0.99/0.99/0.99 0.90 0.90 0.90 100
+ 10  ...   0.09  0.00 0.97/0.97/0.97 0.90 0.90 0.90 100
+ 11  ...   0.17  0.00 0.92/0.92/0.92 0.90 0.90 0.90 100
+ 12  ...   0.27  0.00 0.82/0.82/0.82 0.90 0.90 0.90 100
+ 13  ...   0.37  0.00 0.75/0.75/0.75 0.90 0.90 0.90 100
+ 14  ...   0.40  0.00 0.74/0.74/0.74 0.90 0.90 0.90 100
+ 15  ...   0.24  0.00 0.84/0.84/0.84 0.90 0.90 0.90 100
+ 16  ...   0.02  0.00 0.98/0.98/0.98 0.90 0.60 0.60 100
+ 17  ...   0.00  0.00 1.00/1.00/1.00 0.86 0.86 0.60 100
+ 18  ...  -0.00  0.00 1.00/1.00/1.00 0.86 0.43 0.30 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 0.994433333333333 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 4
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 4
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 4
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K4_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 4
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 4 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 4
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.99443591567635     1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.99443591567635
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 
+1 3 2 4 
+4 3 2 1 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:0
+
+
+
+clumpp finished its run
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 5
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 5
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 5
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 5 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 5
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.994157278419049    1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.994157278419049
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 5 
+4 5 1 3 2 
+4 5 1 3 2 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:1
+
+
+
+clumpp finished its run
+Pairwise matrix found..
+Extracting Pairwise matrix..
+Pairwise matrix:
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+Not using any threshold.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] pid 779
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  2  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  3  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  4  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  5  ...   0.00  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  6  ...   0.01  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  7  ...   0.01  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  8  ...   0.02  0.00 1.00/1.00/1.00 0.90 0.90 0.90 100
+  9  ...   0.05  0.00 0.99/0.99/0.99 0.90 0.90 0.90 100
+ 10  ...   0.09  0.00 0.97/0.97/0.97 0.90 0.90 0.90 100
+ 11  ...   0.15  0.00 0.91/0.91/0.91 0.90 0.90 0.90 100
+ 12  ...   0.21  0.00 0.85/0.85/0.85 0.90 0.90 0.90 100
+ 13  ...   0.24  0.00 0.86/0.86/0.86 0.90 0.90 0.90 100
+ 14  ...   0.30  0.00 0.84/0.84/0.84 0.90 0.90 0.90 100
+ 15  ...   0.38  0.00 0.76/0.76/0.76 0.90 0.90 0.90 100
+ 16  ...   0.16  0.00 0.84/0.84/0.84 0.90 0.60 0.60 100
+ 17  ...   0.02  0.00 0.98/0.98/0.98 0.86 0.86 0.60 100
+ 18  ...   0.00  0.00 1.00/1.00/1.00 0.86 0.86 0.60 100
+ 19  ...  -0.00  0.00 1.00/1.00/1.00 0.86 0.43 0.30 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 0.994166666666667 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 5
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 5
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 5
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K5_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 5
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 5 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 5
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.994157278419049    1
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.994157278419049
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 5 
+4 5 1 3 2 
+4 5 1 3 2 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:1
+
+
+
+clumpp finished its run
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_1.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 6
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_2.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 6
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_3.dat.converted
+Number of individuals in file: 826
+Number of populations in file: 6
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 6 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 6
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.648386936718118    1
+0.688787635795076    5
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.688787635795076
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 5 6 
+2 1 3 4 6 5 
+5 2 1 6 3 4 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:1
+
+
+
+clumpp finished its run
+Pairwise matrix found..
+Extracting Pairwise matrix..
+Pairwise matrix:
+Calculating dynamic threshold..
+mcx command "mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcx query -imx - -vary-threshold 0.5/1.0/50  -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/mcxtable"
+
+
+Calling mcx algorithm..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+Calculation result:
+The chosen threshold is 0.60.
+
+mcxarray and mcl command:
+"mcl/bin/mcxarray -co 0 -data ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/clumppPairMatrixChoped -write-data - | mcl/bin/mcl - -I 2 -tf 'gq(0.60), add(-0.60)' -o ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/MCL.out"
+
+Executing command..
+[mcxarray] read table with 3 rows and 3 columns
+[mcxarray] 9 entries in table
+[mclIO] writing <->
+...
+[mclIO] wrote native interchange 3x3 matrix with 9 entries to stream <->
+[mclIO] reading <->
+...
+[mclIO] read native interchange 3x3 matrix with 9 entries
+[mcl] transform: went from 6 to 6 entries
+[mcl] pid 801
+ ite ---  chaos  time hom(avg,lo,hi) m-ie m-ex i-ex fmv
+  1  ...   0.31  0.00 0.95/0.89/0.99 0.90 0.90 0.90 100
+  2  ...   0.08  0.00 0.97/0.91/1.00 0.90 0.90 0.90 100
+  3  ...   0.01  0.00 1.00/1.00/1.01 0.90 0.60 0.60 100
+  4  ...   0.02  0.00 1.00/1.00/1.00 0.86 0.86 0.60 100
+  5  ...   0.05  0.00 0.99/0.99/0.99 0.86 0.86 0.60 100
+  6  ...   0.09  0.00 0.97/0.97/0.97 0.86 0.86 0.60 100
+  7  ...   0.16  0.00 0.91/0.91/0.91 0.86 0.86 0.60 100
+  8  ...   0.24  0.00 0.79/0.79/0.79 0.86 0.86 0.60 100
+  9  ...   0.22  0.00 0.78/0.78/0.78 0.86 0.86 0.60 100
+ 10  ...   0.07  0.00 0.93/0.93/0.93 0.86 0.86 0.60 100
+ 11  ...   0.00  0.00 1.00/1.00/1.00 0.86 0.86 0.60 100
+ 12  ...   0.00  0.00 1.00/1.00/1.00 0.86 0.43 0.30 100
+[mcl] jury pruning marks: <100,100,100>, out of 100
+[mcl] jury pruning synopsis: <100.0 or really really really good> (cf -scheme, -do log)
+[mclIO] writing <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/MCL.out>
+.
+[mclIO] wrote native interchange 3x1 matrix with 3 entries to stream <../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/MCL.out>
+[mcl] 1 clusters found
+[mcl] output is in ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MCL.files/MCL.out
+
+Please cite:
+    Stijn van Dongen, Graph Clustering by Flow Simulation.  PhD thesis,
+    University of Utrecht, May 2000.
+       (  http://www.library.uu.nl/digiarchief/dip/diss/1895620/full.pdf
+       or  http://micans.org/mcl/lit/svdthesis.pdf.gz)
+OR
+    Stijn van Dongen, A cluster algorithm for graphs. Technical
+    Report INS-R0010, National Research Institute for Mathematics
+    and Computer Science in the Netherlands, Amsterdam, May 2000.
+       (  http://www.cwi.nl/ftp/CWIreports/INS/INS-R0010.ps.Z
+       or  http://micans.org/mcl/lit/INS-R0010.ps.Z)
+
+Clusters found by MCL:
+0    1    2		Average distance: 0.6888 
+Major Cluster is:
+0	1	2
+Min minor cluster fraction is 0.1, min size is 0
+No minor clusters.
+
+
+Extracting Cluster Individuals table..
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_1.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 6
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_2.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 6
+Importing Individuals table from file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_3.dat.converted
+
+Number of individuals in file: 826
+Number of populations in file: 6
+
+
+Extracting Cluster predefined populations table..
+Opening file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/converted.input.files/Pom.Dog.bi.clines.75.AHclineAll_K6_1.dat.converted
+..
+Number of individuals in file: 826
+Number of populations in file: 6
+Finished importing populations table - 20 predefined populations.
+
+Call CLUMPP for cluster ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MajorCluster
+Using default value of clumpp repeats - 2000 repeats
+building clumpp command..
+CLUMPP command: CLUMPP/CLUMPP 42/clumpp.paramfile -i 42/ClumppIndFile -o 42/ClumppIndFile.output -j 42/ClumppIndFile.misc -c 826 -m 3 -k 6 -r 3
+
+clumpp bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MajorCluster/CLUMPP.files/ClumppCommands.sh
+calling clumpp...
+Clumpp output:
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+CLUMPP by M. Jakobsson and N. A. Rosenberg (2007)
+              Code by M. Jakobsson
+           Version 1.1.2 (May 2009)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+Parameter settings 
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = 42/ClumppIndFile
+POPFILE = 
+OUTFILE = 42/ClumppIndFile.output
+MISCFILE = 42/ClumppIndFile.misc
+K = 6
+C = 826
+R = 3
+M = 3
+W = 0
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 2000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = arabid.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDERFILE = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 2000 configurations of runs and clusters will be tested.
+
+Running... 
+----------------------------------
+Best estimate of H'  Repeat number (of 2000)
+0.648386936718118    1
+0.688787635795076    5
+
+
+Results 
+----------------------------------
+The highest value of H' is: 0.688787635795076
+
+The list of permutation of the clusters that produces that
+H' value is (each run is on a separate row)
+1 2 3 4 5 6 
+2 1 3 4 6 5 
+5 2 1 6 3 4 
+
+The program finished in (days:hours:minutes:seconds)
+0:0:0:1
+
+
+
+clumpp finished its run
+Loading clumpp data by popId to memory
+first pop id found: 1
+calculating ordered permutation..
+ordered permutaion: 0
+Saving permutated matrix to file..
+Calling distruct for K=1.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 28
+7 0 55
+...
+10 0 39
+5 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 1 
+2 1 1 
+3 1 1 
+4 1 1 
+5 1 1 
+...
+822 20 1 
+823 20 1 
+824 20 1 
+825 20 1 
+826 20 1 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Calculating best Average Distance between K=1 and K=2..
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Running on all permutations..
+Finished running on all permutations.
+Best permutation is: 1 0
+score: 0.425025119129575
+Saving permutated matrix to file..
+Calling distruct for K=2.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 0 28
+7 0 0 55
+...
+10 0 0 39
+5 0 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 0.4907 0.5093 
+2 1 0.7167 0.2833 
+3 1 0.3153 0.6847 
+4 1 0.2253 0.7747 
+5 1 0.6628 0.3372 
+...
+822 20 0.9997 0.0003 
+823 20 0.9994 0.0006 
+824 20 0.9981 0.0019 
+825 20 0.9989 0.0011 
+826 20 0.9994 0.0006 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Calculating best Average Distance between K=2 and K=3..
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Running on all permutations..
+Finished running on all permutations.
+Best permutation is: 2 1 0
+score: 0.799194812810577
+Saving permutated matrix to file..
+Calling distruct for K=3.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 0 0 28
+7 0 0 0 55
+...
+10 0 0 0 39
+5 0 0 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 0.3966 0.4975 0.1059 
+2 1 0.5279 0.1024 0.3697 
+3 1 0.0631 0.5577 0.3791 
+4 1 0.0436 0.8255 0.131 
+5 1 0.4344 0.1235 0.4421 
+...
+822 20 0.9996 0.0002 0.0002 
+823 20 0.9982 0.0003 0.0015 
+824 20 0.9973 0.0008 0.0019 
+825 20 0.9974 0.0007 0.0019 
+826 20 0.9985 0.0003 0.0011 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Calculating best Average Distance between K=3 and K=4..
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Running on all permutations..
+Finished running on all permutations.
+Best permutation is: 3 1 2 0
+score: 0.726414653915804
+Saving permutated matrix to file..
+Calling distruct for K=4.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 0 0 0 28
+7 0 0 0 0 55
+...
+10 0 0 0 0 39
+5 0 0 0 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 0.4275 0.4636 0.1042 0.0047 
+2 1 0.3259 0.0002 0.5575 0.1164 
+3 1 0.0013 0.48 0.5182 0.0005 
+4 1 0.0017 0.6495 0.0003 0.3485 
+5 1 0.207 0.0002 0.6711 0.1217 
+...
+822 20 0.9995 0.0001 0.0002 0.0002 
+823 20 0.997 0.0003 0.0024 0.0003 
+824 20 0.9852 0.0003 0.0003 0.0143 
+825 20 0.9951 0.0005 0.0021 0.0023 
+826 20 0.9977 0.0003 0.0014 0.0007 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Calculating best Average Distance between K=4 and K=5..
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Running on all permutations..
+Finished running on all permutations.
+Best permutation is: 4 0 1 2 3
+score: 0.822305002499213
+Saving permutated matrix to file..
+Calling distruct for K=5.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 0 0 0 0 28
+7 0 0 0 0 0 55
+...
+10 0 0 0 0 0 39
+5 0 0 0 0 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 0.3713 0.3698 0.1844 0.0742 0.0003 
+2 1 0.1401 0.0002 0.5337 0.0008 0.3253 
+3 1 0.0008 0.4398 0.5586 0.0006 0.0002 
+4 1 0.0006 0.5834 0.0003 0.4156 0.0001 
+5 1 0.0013 0.0002 0.5693 0.0002 0.4291 
+...
+822 20 0.9992 0.0001 0.0002 0.0001 0.0004 
+823 20 0.8458 0.0002 0.0005 0.0002 0.1533 
+824 20 0.8435 0.0003 0.0002 0.0013 0.1548 
+825 20 0.9916 0.0003 0.0025 0.0026 0.003 
+826 20 0.9927 0.0002 0.0018 0.0005 0.0048 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Calculating best Average Distance between K=5 and K=6..
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Loading file ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MajorCluster/CLUMPP.files/ClumppIndFile.output to memory
+Running on all permutations..
+Finished running on all permutations.
+Best permutation is: 3 0 2 5 1 4
+score: 0.747240226584806
+Saving permutated matrix to file..
+Calling distruct for K=6.MajorCluster
+bash file: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MajorCluster/distructOutput.sh
+Distruct output:
+
+Note: using input order of poulations in
+  file 42/labels as left-right printing order.
+
+Sample population q's from beginning and end of file 42/pop.
+11 0 0 0 0 0 0 28
+7 0 0 0 0 0 0 55
+...
+10 0 0 0 0 0 0 39
+5 0 0 0 0 0 0 37
+
+Sample individual q's from beginning and end of file 42/ind.
+1 1 0.2128 0.4473 0.1167 0.0318 0.005 0.1863 
+2 1 0.1668 0.0003 0.4981 0.0031 0.3313 0.0004 
+3 1 0.0005 0.5022 0.4715 0.0003 0.0004 0.0251 
+4 1 0.0007 0.644 0.0003 0.3507 0.0002 0.0041 
+5 1 0.0098 0.0002 0.5789 0.0002 0.3963 0.0146 
+...
+822 20 0.6812 0.0001 0.0002 0.0002 0.0004 0.318 
+823 20 0.9001 0.0002 0.0008 0.0003 0.082 0.0167 
+824 20 0.5535 0.0003 0.0002 0.0014 0.1426 0.3021 
+825 20 0.7343 0.0003 0.0015 0.0014 0.0035 0.259 
+826 20 0.9968 0.0002 0.0012 0.0004 0.0009 0.0005 
+
+GPL Ghostscript 9.07 (2013-02-14)
+Copyright (C) 2012 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Can't find (or can't open) font file /usr/share/ghostscript/9.07/Resource/Font/NimbusSanL-Bold.
+Can't find (or can't open) font file NimbusSanL-Bold.
+Querying operating system for font files...
+Loading NimbusSanL-Bold font from /usr/share/fonts/default/Type1/n019004l.pfb... 3546416 2071806 2372376 1072191 2 done.
+
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Use of uninitialized value $mean in sprintf at ./CLUMPAK.pl line 375.
+Getting data hashes
+creating pdf job_42_pipeline_summary.pdf..
+Calculating page size.
+Number of images: 6
+Number Of K's: 6
+Calculated height: 1106
+Adding title..
+Adding major images..
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=1/MajorCluster/distructOutput.png
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=2/MajorCluster/distructOutput.png
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=3/MajorCluster/distructOutput.png
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=4/MajorCluster/distructOutput.png
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=5/MajorCluster/distructOutput.png
+cur major image location: ../dogwood_out/Pom.Dog.bi.clines.75.AHclineAll/K=6/MajorCluster/distructOutput.png
+Adding minor images..
+Adding division by K data..
+cur division by K data: 3/3
+cur division by K data: 3/3
+cur division by K data: 3/3
+cur division by K data: 3/3
+cur division by K data: 3/3
+cur division by K data: 3/3
+Creating summary zip 42.zip
+Finished creating zip
+Done!

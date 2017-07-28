@@ -1,0 +1,23 @@
+Peter Lazorchak
+lazorchakp@jhu.edu
+6/5/2017
+
+This tool assumes that the FORMAT column reads XX:XX:DP:<...> and that all
+missing individual data begins with '.'
+
+Summary of options:
+
+-i <infile_name> [REQUIRED]
+    The name of the .vcf file to be filtered (this file will not be modified)
+
+-g <groupsfile_name> [REQUIRED]
+    The name of the file containing LD group info, each line formatted as
+    <groupID> <CHROM>_<POS>
+
+    note: <CHROM>_<POS> must exactly match CHROM and POS in the input .vcf file
+
+-o <outfile_name> [default: <infile>.ld_filtered.vcf]
+    The name of the filterd output file to be generated
+
+-a <analytics_name> [default: do not output analytics]
+    Output snp analytics as a csv file with the specified name

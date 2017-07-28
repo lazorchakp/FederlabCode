@@ -1,0 +1,11 @@
+Peter Lazorchak
+lazorchakp@jhu.edu
+5/26/2017
+
+Summary of options:
+
+-o <outfile_name> [default: <infile>.entropy.dat]
+    The name of the output file
+
+-c [default: genotype likelihood format]
+    Output file will be in count format
