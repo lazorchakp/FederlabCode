@@ -1,0 +1,165 @@
+Peter Lazorchak
+lazorchakp@gmail.com
+7/25/17
+
+
+######### Lep-MAP3 notes #########
+
+
+1) Preparing the .bam files
+
+I found it easiest to separate each individual into a single .bam file. I did this by using this command:
+
+`samtools split -u noTag.bam -v -f %!.%. refcross_seqman.resorted.samples.bam`
+
+This should produce two "empty" .bam files - for 194 individuals, the binary files with ID #194 and "noTag.bam" should be the same relatively small size, which I assume contain only .bam headers and such. These two files can and should be excluded from future steps.
+
+Additionally, I removed an individual because it was a duplicate mother in the pedigree described by "tagmapping.txt". This individual is MID15.1_s_6_sequence, which has ID #1 in the original .bam file.
+
+
+2) Making the pedigree file
+
+***From now on, order always matters, because it is the only thing that keeps the individuals properly lined up with their own genetic data in the Lep-MAP files***
+
+Although the pedigree itself is not required for several more steps, you need this file now in order to make "sorted_bams" (step 3). I wrote the perl script pedigree_gen.pl to make this step easier. It takes an input file that maps individual names to cross information. Making this file is the most difficult part of this step.
+
+The first column in the map file is the individual name, which should match the name encoded into the .bam files. I HIGHLY recommend that the second column is formatted EXACTLY as follows (each possibility is contained within square brackets, which should be excluded from the actual file): [cross<#>-father], [cross<#>-mother], or [cross<#>.<#>]. Using dashes for mother/father and decimal points for sibs allows for very easy sorting.
+
+Next I sorted the map by family, where each family has its father listed first, then its mother, and finally its children. As long as you have the second column formatted as outlined in the previous paragraph, you can use the following command to sort by family: `sort -V -k 2 map.txt`.
+
+As long as you used the recommended format, you can now simply run `pedigree_gen.pl -i map.txt -o pedigree.txt` to make the pedigree.
+
+NOTE: You do not need to swap the genders of the parents. Lep-MAP will allow you to specify the gender with no recombination later.
+
+
+3) Making "sorted_bams"
+
+I generated a simple file containing the names of the .bam files in family order: father1, mother1, sibs1...., father2, mother2, sibs2....., etc. This file has only 1 line, and each filename is separated by a single space.
+
+Making this file is easy as long as you have made the pedigree. Run `awk 'NR==2{for(i=3;i<=NF;i++) printf $i".bam "}' pedigree.txt`. This reads the second line of the pedigree (NR==2) and ignores the first 2 columns (containing "."), then prints the individuals name and ".bam". This will work as long as your individual names in the pedigree match the .bam filenames.
+
+
+4) Making "mapping.txt"
+
+This file is the same as "sorted_bams" but it contains individual names instead of file names. So similarly, run `awk 'NR==2{for(i=3;i<=NF;i++) printf $i" "}' pedigree.txt`. Also note that this file MUST be named "pedigree.txt" for Lep-MAP's parsing scripts to work properly.
+
+
+5) The "sequencing data processing pipeline"
+
+This part takes some time, so submit this command as a job. As long as you've followed steps 1-4 this should work:
+
+`samtools mpileup -q 10 -s $(cat sorted_bams) | awk -f pileupParser2.awk | awk -f pileup2posterior.awk | gzip > post.gz`
+
+Note that the $(cmd) syntax is exclusive to bash. In csh this part of the line should be replaced with `cat sorted_bams` (INCLUDING the backticks). The awk scripts used here are available for download from the Lep-MAP sourceforge.
+
+
+----NOTE----
+Up to this point I'm fairly confident nothing went wrong. The error in my map probably came from parameter settings or run strategies somewhere from here on.
+------------
+All of the modules in lep-MAP3 have descriptions of their options available by running the module with no arguments. I am including all options that I used, but you should probably look at each of them to make sure there aren't any that would be better.
+------------
+I recommend adding the bin/ folder in Lep-MAP3 to the CLASSPATH linux variable (this is a java thing). The other option is to specify the location of any modules you use each time you run one: `java -cp <lep-MAP3>/bin/ <module> ......`. CLASSPATH works the exact same way as PATH but it is specific to java. Any time you run a job, you should use -cp unless you add CLASSPATH modifications to your .cshrc.
+------------
+The processing pipeline (~7hr), ParentCall2 (~1hr), and OrderMarkers2 (~7hr) should be submitted as jobs. The other modules should only take about 20-30 minutes max, and can be run on the front end machines. See TIME at the end of this file for details.
+
+
+6) ParentCall2
+
+This is the job I submitted to run ParentCall2:
+
+`zcat post.gz | java -cp <lep-MAP3>/bin/ ParentCall2 data=pedigree.txt posteriorFile=- | gzip > data.call.gz`
+
+There are lots of available options here, but I did not use any of them.
+
+
+7) Filtering2
+
+If you filter the data stringently, the remaining modules will run significantly faster. For this step I ran:
+
+`zcat data.call.gz | java -cp <lep-MAP3>/bin/ Filtering2 data=- dataTolerance=0.01 removeNonInformative=1 | gzip > data_f01.call.gz`
+
+For some reason, higher values for dataTolerance result in more removal of data, not less. I tried 0.001, 0.01, and 0.05, but ultimately decided 0.01 was a sufficient amount of filtering (arbitrarily, based only on filesize).
+
+
+8) SeparateChromosomes2
+
+This is where the fun really begins. There are so many important parameters for the next 3 modules that they are likely the source of my error. This is the command I used:
+
+`zcat data_f01.call.gz | java -cp <lep-MAP3>/bin/ SeparateChromosomes2 data=- lodLimit=13.9 maleTheta=0 femaleTheta=0.09 sizeLimit=99`
+
+As far as I could tell, Theta is the recombination frequency. I made sure that the setting "maleTheta" and "femaleTheta" separately overrides any default value for "theta". Using sizeLimit removes any groups that have fewer than 99 markers.
+
+I chose 13.9 for the LOD limit by manually running this module many, many times, in an attempt to *****maximize the size of the 6th largest linkage group*****. By starting off with a wide range of LOD limits and making smaller and smaller adjustments, I settled on 13.9 as a local maximum for the 6th largest LG.
+
+After I did this, I went through the same process with femaleTheta. This parameter did not seem to make as much of a difference, and I ultimately settled on 0.09.
+
+
+9) JoinSingles2All
+
+This module joins any remaining single markers to existing LGs. What this means is that you can create the LGs with SeparateChromosomes2 and then slightly lower the LOD requirement to add a few more markers.
+
+If you use a new LOD limit that is far lower than the original, all of the newly assigned singles will likely be in the same LG. I had the most success by running JoinSingles2All iteratively, lowering the LOD limit by very slight intervals each time. I wrote a script to accomplish this automatically, which I ran on the CRC.
+
+The command I used to run the wrapper script was
+
+`./join_iterate.pl -i data_f01.call.gz -m map.txt -s 13.9 -j 0.1 -n 90 -c <lep-Map3>/bin/ -a 0 -f 0.09 -o 10`
+
+Run join_iterate.pl with no arguments for descriptions of these options. This actually runs the following command iteratively:
+
+`zcat data_f01.call.gz | java -cp <lep-MAP3>/bin/ JoinSingles2All data=- map=<current_map.txt> lodLimit=<current_LOD> maleTheta=0 femaleTheta=0.09`
+
+The output is saved as a new map, which is then used as input for the next iteration at a lower LOD. LOD limits went from 13.9 to 5.0, decreasing with a jump size of 0.1.
+
+
+10) OrderMarkers2
+
+This is the final step, where the map is actually created. I submitted this command as a job:
+
+`zcat data_f01.call.gz | java -cp <lep-MAP3>/bin/ OrderMarkers2 map=map_join.txt data=- recombination1=0 recombination2=0.09 useKosambi=1 outputPhasedData=1 > order.txt`
+
+As you can see, I used a recombination frequency of 0 for males, 0.09 for females, and the Kosambi mapping function. This step has a LOT of options that I did not use here, such as "interference<1/2>", the recombination interference for male/female (default=0.001).
+
+
+11) LMPlot
+
+This is used to make the .dot file from order.txt. It is very easy to use:
+
+`java -cp <lep-MAP3>/bin/ LMPlot order.txt > order.dot`
+
+
+######### HINT FROM PASI RASTAS HIMSELF #########
+
+There is one last method that I did not try when running SeparateChromosomes2. In the words of Rastas himself:
+
+"It is possible that lod3Mode=3 might work better for double informative (father and mother informative at the same time) markers, but then you must provide same theta's for male and female. If the problem is in double informative markers, something to try as well is to set informativeMask=2 or informativeMask=12."
+
+I DID try using "informativeMask=1" and an LOD limit of 10 (default), which was Rastas' first suggestion, but I had a better distribution of markers when I did not use this option and used lodLimit=13.9, so that is what I stuck with.
+
+
+######### TIME #########
+
+A record of how long each step took on the crc.
+
+input: 193 indiviuals, 16 GB total (sum of all .bam files)
+jobs run on one core unless otherwise noted.
+
+Main pipeline - 6h 50m (2 cores - 5h 43m)
+samtools mpileup -q 10 -Q 10 -s $(cat sorted_bams) | awk -f pileupParser2.awk | awk -f pileup2posterior.awk | gzip > post.gz
+
+ParentCall2 - 0h 57m
+zcat post.gz | java ParentCall2 data=pedigree_byfam.txt posteriorFile=- | gzip > data.call.gz
+
+Filtering2 - 0h 26m
+zcat data.call.gz | java Filtering2 data=- dataTolerance=0.001 | gzip > data_f.call.gz
+
+SeparateChromosomes2 - 0h 30m
+zcat data_f.call.gz | java SeparateChromosomes2 data=- lodLimit=5 femaleTheta=0 > map5.txt
+
+JoinSingles2All - 0h 19m
+zcat data_f.call.gz | java JoinSingles2All data=- map=map5.txt lodLimit=4 > map5_js.txt
+
+OrderMarkers2 - 6h 43m
+zcat data_f.call.gz | java OrderMarkers2 map=map5_js.txt data=- recombination2=0 outputPhasedData=1 > order1_phased.txt
+
+LMPlot - 0h 23m
+java LMPlot order1_phased.txt > order1_phased.dot
