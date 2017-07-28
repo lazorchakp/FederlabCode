@@ -76,6 +76,7 @@ opendir (DIR, $indir)
 	}
 closedir (DIR);
 
+print "Processing... This could take a minute\n\n";
 
 # Generate table with q posterior median estimates, and get number of loci
 # and number of samples
